@@ -1,9 +1,9 @@
 {
-  "name": "svelte-apollo",
-  "version": "0.3.0-beta.3",
-  "author": "Tim Hall <tim.hall.engr@gmail.com>",
+  "name": "@hugome/svelte-apollo",
+  "version": "0.3.0-beta.4",
+  "author": "Hugo Meyronneinc <hugomeyronneinc@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/timhall/svelte-apollo.git",
+  "repository": "https://github.com/Hugome/svelte-apollo.git",
   "main": "dist/svelte-apollo.cjs.js",
   "module": "dist/svelte-apollo.es.js",
   "types": "dist/svelte-apollo.d.ts",
